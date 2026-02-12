@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../USART_MAX.srcs/sources_1/new/USART_MAX.v" \
+"../../../../USART_MAX.srcs/sources_1/new/uart_tx_up.v" \
+"../../../../USART_MAX.srcs/sim_1/new/USART_MAX_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
