@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/28220/Documents/GitHub/FPGA_UART/USART_RX_MAX/USART_RX_MAX.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/28220/Documents/GitHub/FPGA_UART/USART_RX_MAX/USART_RX_MAX.srcs/sim_1/new/RX_TB.v,1770862227,verilog,,,,RX_TB,,,,,,,,
+C:/Users/28220/Documents/GitHub/FPGA_UART/USART_RX_MAX/USART_RX_MAX.srcs/sources_1/new/USART_RX.v,1770825971,verilog,,C:/Users/28220/Documents/GitHub/FPGA_UART/USART_RX_MAX/USART_RX_MAX.srcs/sim_1/new/RX_TB.v,,uart_rx,,,,,,,,
